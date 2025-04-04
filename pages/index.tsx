@@ -3,7 +3,7 @@ export default function Home() {
       <div style={{ textAlign: 'center', marginTop: '100px' }}>
         <h1>Bienvenue sur malettreparcoursup.fr</h1>
         <a
-          href="https://buy.stripe.com/test_14KbJp1ufam9b2obII"
+          href="https://buy.stripe.com/test_14kbJp1Ufam9b2obII"
           target="_blank"
           rel="noopener noreferrer"
           style={{
