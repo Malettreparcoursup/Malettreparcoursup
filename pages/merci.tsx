@@ -1,0 +1,1 @@
+export default function Merci() { return <h1>Merci pour votre confiance !</h1>; }
